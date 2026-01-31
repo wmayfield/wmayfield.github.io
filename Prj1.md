@@ -23,10 +23,10 @@ I wanted to have a guitar pedal with distortion effects so I made one based off 
 **Final Product:**
 
 No pedal, amp on overdrive:
-https://youtube.com/shorts/Tq4go4iENR0?feature=share
+[No Pedal](https://youtube.com/shorts/Tq4go4iENR0?feature=share)
 
 Pedal used, amp on overdrive:
-https://youtube.com/shorts/2BjB-fK5_Gs?feature=share
+[Pedal](https://youtube.com/shorts/2BjB-fK5_Gs?feature=share)
 
 **Reflection:**
 
