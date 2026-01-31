@@ -1,6 +1,3 @@
-title: Project 1
-filename: Prj1.md
-
 ## 1: Distortion Guitar Pedal
 
 I wanted to have a guitar pedal with distortion effects so I made one based off of a version of the Big Muff Pi pedal shown below. Some components are different due to supply, personal choice, and cost.
