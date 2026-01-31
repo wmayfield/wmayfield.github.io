@@ -1,7 +1,15 @@
-### My Projects
+# My Projects
 
 
-# 1: Distortion Guitar Pedal
+## 1: Distortion Guitar Pedal
 
 I wanted to have a guitar pedal with distortion effects so I made one based off of the Big Muff Pi pedals shown below. Some components are different due to supply, personal choice, and cost.
 ![Reference](Screenshot 2026-01-31 135945.png)
+![My Design](Screenshot 2026-01-31 141336.png)
+
+#Layout:
+![Layout]()
+
+
+
+
