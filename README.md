@@ -18,8 +18,13 @@ I wanted to have a guitar pedal with distortion effects so I made one based off 
 #Layout:
 ![Layout](Screenshot 2026-01-31 142313.png)
 
+#Final Product
 
+No pedal, amp on overdrive:
+https://youtube.com/shorts/Tq4go4iENR0?feature=share
 
+Pedal used, amp on overdrive:
+https://youtube.com/shorts/2BjB-fK5_Gs?feature=share
 
 
 
