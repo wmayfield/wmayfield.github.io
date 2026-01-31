@@ -8,7 +8,7 @@ I wanted to have a guitar pedal with distortion effects so I made one based off 
 ![My Design](Screenshot 2026-01-31 141336.png)
 
 #Layout:
-![Layout]()
+![Layout](Screenshot 2026-01-31 142313.png)
 
 
 
