@@ -1,4 +1,4 @@
-**Back to main page:** https://wmayfield.github.io/
+**Back to main page:** [Main](https://wmayfield.github.io/)
 
 
 
@@ -37,4 +37,4 @@ https://youtube.com/shorts/2BjB-fK5_Gs?feature=share
 
 
 
-**Back to main page:** https://wmayfield.github.io/
+**Back to main page:** [Main](https://wmayfield.github.io/)
