@@ -1,3 +1,9 @@
+**Back to main page:** https://wmayfield.github.io/
+
+
+
+
+
 ## 1: Distortion Guitar Pedal
 
 I wanted to have a guitar pedal with distortion effects so I made one based off of a version of the Big Muff Pi pedal shown below. Some components are different due to supply, personal choice, and cost.
@@ -23,3 +29,12 @@ Pedal used, amp on overdrive:
 https://youtube.com/shorts/2BjB-fK5_Gs?feature=share
 
 **Reflection:**
+
+
+
+
+
+
+
+
+**Back to main page:** https://wmayfield.github.io/
