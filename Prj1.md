@@ -7,18 +7,18 @@
 ## 1: Distortion Guitar Pedal
 
 I wanted to have a guitar pedal with distortion effects so I made one based off of a version of the Big Muff Pi pedal shown below. Some components are different due to supply, personal choice, and cost.
-![Reference](Screenshot 2026-01-31 135945.png)
-![My Design](Screenshot 2026-01-31 141336.png)
+![Reference](PictureFile/Screenshot 2026-01-31 135945.png)
+![My Design](PictureFile/Screenshot 2026-01-31 141336.png)
 
 
 **LTspice Simulations:**
-![All stages](Screenshot 2026-01-31 145024.png)
-![Circuit](Screenshot 2026-01-31 145046.png)
-![Input V.S. Output Only](Screenshot 2026-01-31 145115.png)
+![All stages](PictureFile/Screenshot 2026-01-31 145024.png)
+![Circuit](PictureFile/Screenshot 2026-01-31 145046.png)
+![Input V.S. Output Only](PictureFile/Screenshot 2026-01-31 145115.png)
 
 
 **Layout:**
-![Layout](Screenshot 2026-01-31 142313.png)
+![Layout](PictureFile/Screenshot 2026-01-31 142313.png)
 
 **Final Product:**
 
