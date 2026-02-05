@@ -6,7 +6,9 @@
 This project was completed in fall of my senior year (2025) through school. It consisted of creating an oscilloscope on a VHDL dev board with data acquisition, HDMI display, and trigger mode. I got the data acquisition and display to work perfectly, but had some issues with the way I was doing the trigger method, as it would stall the display incorrectly. I am not really supposed to provide the code as this is a course that still exists and I don't want to just give someone the answers, but I will provide videos of functionality and some snapshots of my code. This code doesn't really give anything away but shows the inputs and outputs as well as the usage of other files including trivial bits of code like muxes, comparators, registers etc.
 
 
-[User button needed](https://youtube.com/shorts/P9OWi5cG0Po)
+[User button needed](https://youtube.com/shorts/P9OWi5cG0Po)  
+  
+  
 [Automatic Data Acquisition](https://youtube.com/shorts/16tT_uzRK_U)
 
 ![Snippet of top level file](PictureFile/Screenshot 2026-02-05 131318.png)
