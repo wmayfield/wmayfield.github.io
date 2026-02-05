@@ -5,7 +5,7 @@
 
 This project is for my senior design class at Colorado School of Mines. The task given to my team of 9 (2 electrical engineers, 6 mechanical engineers, 1 design engineer) was to create a new approach for an espresso machine. Initially, I was excited to create a PCB for a microcontroller to control all the mechanical peripherals, but realized this probably would take more time than was feasible for our timeline, so I opted to purchase an STM32 evaluation board. The STM32F469I-DISCO [STM32](https://www.st.com/en/evaluation-tools/32f469idiscovery.html) was chosen due to further requirements of a touchscreen by our client. After purchasing, I wanted to do a quick test on the board's functionality, so I coded a display that we would use for testing temperatures throughout the machine when we got to that point for proof of concept.
 
-![MCU Board Working](PictureFile/IMG_7186.jpeg)
+![MCU Board Working](PictureFile/Screenshot 2026-02-05 121611.png)
 
 Now that this thing was powered and I had proof that the MCU was going to work, I started scheming up the power distribution as my mechanical engineer teammates had started to find their parts and given me an idea of the voltage levels I would need to provide for their component choices. Initially, we had:
 - A 500W boiler that took in 120VAC
