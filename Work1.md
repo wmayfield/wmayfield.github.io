@@ -4,7 +4,7 @@
 ## Thorlabs Internship: 
 So I kind of have to be somewhat vague here but I can paint the picture of what I worked on. Unfortunately I will not be providing any pictures on this. I was working on a new product for Thorlabs for instrumentation in a lab. For those not familiar with Thorlabs, it is an optics/photonics company that makes components and devices particularly for research, quantum applications, and healthcare applications.
 
-#### Inut:
+### Input:
 The product I was working on was a board that could take in up to a 1MHz signal and provide gains from unity to 60dB. The signal would go through a gain stage and then a filter stage before being input into an ADC for signal processing. I spent many hours perfecting a 4th order multiple feedback in LTspice for this. A main focus of mine was lowering noise and I achieved a 10nV/$\\sqrt{Hz}$ noise metric at 0 gain from the input to the ADC. 
 
 ### Output: 
