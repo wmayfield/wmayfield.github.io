@@ -9,7 +9,7 @@ This project was completed in fall of my senior year (2025) through school. It c
 [User button needed](https://youtube.com/shorts/P9OWi5cG0Po)
 [Automatic Data Acquisition](https://youtube.com/shorts/16tT_uzRK_U)
 
-![Snippet of top level file](PictureFile/.png)
+![Snippet of top level file](PictureFile/Screenshot 2026-02-05 131318.png)
 
 
 
