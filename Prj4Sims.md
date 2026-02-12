@@ -3,7 +3,7 @@
 
 Group delay and dB at unity gain and max volume, of FPGA input to mixer:  
 ![Circuit1](PictureFile/Screenshot 2026-02-11 172920.png)
-![GD_1](PictureFile/)
+![GD_1](PictureFile/Screenshot 2026-02-11 173637.png)
 
 
 
