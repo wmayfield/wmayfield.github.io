@@ -1,3 +1,5 @@
+**Back to main page:** [Main](https://wmayfield.github.io/)  
+
 
 ## Simulations
 
@@ -41,3 +43,8 @@ The following simulations are based on this circuit, with just the first op amp 
 ## Group delay and dB at x2 gain and lowest volume, of guitar input to mixer:  
 
 ![GD_8](PictureFile/Screenshot 2026-02-11 180428.png)
+
+
+
+**Back to main page:** [Main](https://wmayfield.github.io/)
+
