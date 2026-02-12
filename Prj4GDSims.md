@@ -1,4 +1,4 @@
-**Back to main page:** [Main](https://wmayfield.github.io/)  
+**Back to project 4 page:** [Prj4](https://wmayfield.github.io/Prj4)  
 
 
 ## Simulations
@@ -46,5 +46,5 @@ The following simulations are based on this circuit, with just the first op amp 
 
 
 
-**Back to main page:** [Main](https://wmayfield.github.io/)
+**Back to project 4 page:** [Prj4](https://wmayfield.github.io/Prj4)  
 
