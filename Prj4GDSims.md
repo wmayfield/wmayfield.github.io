@@ -32,12 +32,12 @@ The following simulations are based on this circuit, with just the first op amp 
 
 ## Group delay and dB at x2 gain and max volume, of guitar input to mixer:  
 
-![GD_5](PictureFile/Screenshot 2026-02-11 180115.png)
+![GD_6](PictureFile/Screenshot 2026-02-11 180115.png)
 
 ## Group delay and dB at x2 gain and lowest volume, of FPGA input to mixer:  
 
-![GD_5](PictureFile/Screenshot 2026-02-11 180454.png)
+![GD_7](PictureFile/Screenshot 2026-02-11 180454.png)
 
 ## Group delay and dB at x2 gain and lowest volume, of guitar input to mixer:  
 
-![GD_5](PictureFile/Screenshot 2026-02-11 180428.png)
+![GD_8](PictureFile/Screenshot 2026-02-11 180428.png)
