@@ -18,9 +18,9 @@ Lets look at the output mixing stage at different input notes, different gains o
 
 [OutputGDSims](https://wmayfield.github.io/Prj4GDSims)  
 
-[TransientSims]()  
+[TransientSims](https://wmayfield.github.io/Prj4TransientSims)  
 
-[NoiseSims]()  
+[NoiseSims](https://wmayfield.github.io/Prj4NoiseSims)  
 
 
 
