@@ -16,7 +16,11 @@ The design of this is based on minimal group delay, stability, and noise. There 
 
 Lets look at the output mixing stage at different input notes, different gains on each mix, and different volumes. The tests performed will be Transient, AC, and noise sims.
 
-[OutputSims](https://wmayfield.github.io/Prj4Sims)
+[OutputGDSims](https://wmayfield.github.io/Prj4GDSims)  
+
+[TransientSims]()  
+
+[NoiseSims]()  
 
 
 
