@@ -16,7 +16,7 @@ The design of this is based on minimal group delay, stability, and noise. There 
 
 Lets look at the output mixing stage at different input notes, different gains on each mix, and different volumes. The tests performed will be Transient, AC, and noise sims.
 
-Unity gain, lowest E note on guitar for both, lowest volume
+[OutputSims](https://wmayfield.github.io/Prj4Sims)
 
 
 
