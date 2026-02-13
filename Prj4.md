@@ -16,12 +16,32 @@ These should be AC coupled and for the input biased at some point between 0 and 
 ![InputAC](PictureFile/Screenshot 2026-02-13 112352.png)
 ![ADCProt](PictureFile/Screenshot 2026-02-13 112606.png)
 
-The design of this is based on minimal group delay, stability, and noise. There is an emphasis on group delay which we want to keep under [1ms](https://acris.aalto.fi/ws/portalfiles/portal/52513428/Audibility_of_Loudspeaker_Group_Delay_Characteristics_AAM.pdf) overall for inaudible delay in the range of 300Hz - 1kHz, and below 10ms for frequencies under 200Hz (Same link). The computing required by the FPGA can be neglected for now because the analog characteristics dominate the delay created by the FPGA.  
+The design of this is based on minimal group delay, stability, and noise. There is an emphasis on group delay which we want to keep under [1ms](https://acris.aalto.fi/ws/portalfiles/portal/52513428/Audibility_of_Loudspeaker_Group_Delay_Characteristics_AAM.pdf) overall for inaudible delay in the range of 300Hz - 1kHz, and below 10ms for frequencies under 200Hz (Same link). The computing delay required by the FPGA can be neglected for now because the analog characteristics dominate the delay created by the FPGA.  
 
 
-Lets look at the output mixing stage at different input notes, different gains on each mix, and different volumes. The tests performed will be stability, transient, frequency response, and noise sims.
+Lets look at the output mixing stage at different input notes, different gains on each mix, and different volumes. The tests performed will be stability, transient, frequency response, and noise sims at the worst case scenario.
 
+![OutputCircuit](PictureFile/)  
 
+![Stability1](PictureFile/)  
+
+![Stability2](PictureFile/)  
+
+![Stability3](PictureFile/)  
+
+![FrequencyOutFPGA](PictureFile/Screenshot 2026-02-13 120400.png)  
+
+![FrequencyOutGuitar](PictureFile/Screenshot 2026-02-13 120537.png) 
+
+![Noise](PictureFile/)  
+
+![Transient1](PictureFile/)  
+
+![Transient2](PictureFile/)  
+
+![Transient3](PictureFile/)  
+
+![Transient4](PictureFile/)  
 
 
 
