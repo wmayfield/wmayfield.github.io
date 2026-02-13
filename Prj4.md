@@ -12,9 +12,9 @@ These should be AC coupled and for the input biased at some point between 0 and 
 
 ![InputCircuit](PictureFile/Screenshot 2026-02-13 111150.png)
 ![Stability](PictureFile/Screenshot 2026-02-13 110623.png)
-![InputNoise](Screenshot 2026-02-13 111757.png)
-![InputAC]()
-![ADCProt]()
+![InputNoise](PictureFile/Screenshot 2026-02-13 111757.png)
+![InputAC](PictureFile/Screenshot 2026-02-13 112352.png)
+![ADCProt](PictureFile/Screenshot 2026-02-13 112606.png)
 
 The design of this is based on minimal group delay, stability, and noise. There is an emphasis on group delay which we want to keep under [1ms](https://acris.aalto.fi/ws/portalfiles/portal/52513428/Audibility_of_Loudspeaker_Group_Delay_Characteristics_AAM.pdf) overall for inaudible delay in the range of 300Hz - 1kHz, and below 10ms for frequencies under 200Hz (Same link). The computing required by the FPGA can be neglected for now because the analog characteristics dominate the delay created by the FPGA.  
 
