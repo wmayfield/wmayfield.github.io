@@ -8,8 +8,10 @@ So the idea here is to make a pedal that takes an input waveform directly from t
 First, we have to get the analog inputs and outputs out of the way.
 These should be AC coupled and for the input biased at some point between 0 and 3.3V. 2.5 is fine for now, we will see if 1.25V is not a big hassle to add later.
 
-![Input]()
-![Output]()
+### Input circuit, stability, adc protection, frequency response, transient sims:
+
+![InputCircuit](PictureFile/Screenshot 2026-02-13 111150.png)
+![Stability](PictureFile/Screenshot 2026-02-13 110623.png)
 
 The design of this is based on minimal group delay, stability, and noise. There is an emphasis on group delay which we want to keep under [1ms](https://acris.aalto.fi/ws/portalfiles/portal/52513428/Audibility_of_Loudspeaker_Group_Delay_Characteristics_AAM.pdf) overall for inaudible delay in the range of 300Hz - 1kHz, and below 10ms for frequencies under 200Hz (Same link). The computing required by the FPGA can be neglected for now because the analog characteristics dominate the delay created by the FPGA.  
 
