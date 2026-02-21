@@ -19,3 +19,11 @@
 ## Work Reflection:
 ### Thorlabs:
 [Work Reflection](https://wmayfield.github.io/Work1)
+
+
+## Miscellaneous:
+### Courses taken:
+[Courses Taken](https://wmayfield.github.io/CoursesTaken)
+
+### Jane Street Puzzles Completed:
+[Puzzles](https://wmayfield.github.io/Puzzles)
