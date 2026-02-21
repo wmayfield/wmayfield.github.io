@@ -19,29 +19,32 @@ These should be AC coupled and for the input biased at some point between 0 and 
 The design of this is based on minimal group delay, stability, and noise. There is an emphasis on group delay which we want to keep under [1ms](https://acris.aalto.fi/ws/portalfiles/portal/52513428/Audibility_of_Loudspeaker_Group_Delay_Characteristics_AAM.pdf) overall for inaudible delay in the range of 300Hz - 1kHz, and below 10ms for frequencies under 200Hz (Same link). The computing delay required by the FPGA can be neglected for now because the analog characteristics dominate the delay created by the FPGA.  
 
 
-Lets look at the output mixing stage at different input notes, different gains on each mix, and different volumes. The tests performed will be stability, transient, frequency response, and noise sims at the worst case scenario.
+Lets look at the output mixing stage at different input notes, different gains on each mix, and different volumes. The tests performed will be open loop stability (Worst case so max feedback impedance of all op amps), transient, closed loop frequency response/delay, and noise sims at the worst case scenario.
 
-![OutputCircuit](PictureFile/)  
+![OutputCircuit](PictureFile/Screenshot 2026-02-21 145840.png)  
 
-![Stability1](PictureFile/)  
+![SimParams](PictureFile/Screenshot 2026-02-21 145850.png)  
 
-![Stability2](PictureFile/)  
+![Stability1](PictureFile/Screenshot 2026-02-21 145248.png)  
 
-![Stability3](PictureFile/)  
+![Stability1Setup](PictureFile/Screenshot 2026-02-21 145248.png)  
+
+![Stability2WC](PictureFile/Screenshot 2026-02-21 145514.png)  
+
+![Stability2Setup](Screenshot 2026-02-21 145448.png)  
+
+![Stability3WC](PictureFile/Screenshot 2026-02-21 145634.png)  
+
+![Stability3Setup](Screenshot 2026-02-21 145547.png)  
 
 ![FrequencyOutFPGA](PictureFile/Screenshot 2026-02-13 120400.png)  
 
-![FrequencyOutGuitar](PictureFile/Screenshot 2026-02-13 120537.png) 
+![FrequencyOutGuitar](PictureFile/Screenshot 2026-02-13 120537.png)  
 
-![Noise](PictureFile/)  
+![Noise](PictureFile/Screenshot 2026-02-21 150850.png)  
 
-![Transient1](PictureFile/)  
+![Transient1](PictureFile/Screenshot 2026-02-21 154531.png)  
 
-![Transient2](PictureFile/)  
-
-![Transient3](PictureFile/)  
-
-![Transient4](PictureFile/)  
 
 
 
