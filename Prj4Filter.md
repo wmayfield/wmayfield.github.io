@@ -1,4 +1,4 @@
-**Back to main page:** [Main](https://wmayfield.github.io/)  
+**Back to Project 4:** [Main](https://wmayfield.github.io/Prj4)
 
 ## Input circuit, stability, noise, frequency response, adc protection:  
 
@@ -57,4 +57,4 @@
 
 
 
-**Back to main page:** [Main](https://wmayfield.github.io/)
+**Back to Project 4:** [Main](https://wmayfield.github.io/Prj4)
