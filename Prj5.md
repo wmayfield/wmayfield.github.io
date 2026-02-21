@@ -15,8 +15,11 @@ In the picture you can kind of make out the labels of the different sections, bu
 At the start, you can see me showing you the values that we are multiplying in the red LEDs, which are 00000110 and 00000111.
 
 ### Small Reflection on Power and Signal Integrity
-This was kind of my introduction into power and signal integrity, as there were problems with this the entier project. Breadboards are not good for daisy chaining power connections, and I experienced many cases where the input voltage into an IC was barely above the 4.3V cutoff, or sometimes lower than it. I could honestly barely solve this by providing power rails alongside all the boards and creating as many power connection contacts as possible, but eventually it worked. These flaws in power integrity as well as increased impedance in signal path due to it being on a breadboard caused this system to be extremely unreliable. Luckily I got to see it working eventually but this project really opened my eyes to the importance of PCBs and layout practices which I spent a lot of time learning after this project.
+This was kind of my introduction into power and signal integrity, as there were problems with this the entier project. Breadboards are not good for daisy chaining power connections, and I experienced many cases where the input voltage into an IC was barely above the 4.3V cutoff, or sometimes lower than it. I could honestly barely solve this by providing power rails alongside all the boards and creating as many power connection contacts as possible, but eventually it worked. These flaws in power integrity as well as increased impedance in signal path due to it being on a breadboard caused this system to be extremely unreliable. Luckily I got to see it working eventually but this project really opened my eyes to the importance of PCBs and layout practices which I spent a lot of time learning after this project.  
 
+
+
+Updated 2/05/2026  
 
 
 **Back to main page:** [Main](https://wmayfield.github.io/)
