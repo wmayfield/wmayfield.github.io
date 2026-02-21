@@ -1,6 +1,6 @@
 ### Puzzles Completed:
 
-Although this isn't exactly related to electrical engineering, I think it still is relevant because it shows some problem solving abilities for very abstract problems. Unfortunately with school and applying to jobs I haven't been able to sit down and do one for a while. I usually like the more creative ones as you will see. For the linked puzzles, just ctrl + F on the solutions to find my name (Walt Mayfield).
+Although this isn't exactly related to electrical engineering, I think it still is relevant because it shows some problem solving abilities for very abstract problems. Unfortunately with school and applying to jobs I haven't been able to sit down and do one for a while. I usually like the more creative ones as you will see. For the linked puzzles, just ctrl + F on the solutions to find my name (Walt Mayfield).  
 [June 2025 Puzzle](https://www.janestreet.com/puzzles/some-ones-somewhere-index/)
 [June 2025 Solution](https://www.janestreet.com/puzzles/some-ones-somewhere-solution/)  
 Finished 8th  
