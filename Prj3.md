@@ -23,21 +23,30 @@ My initial approach was to have one board taking in the wall 120VAC and then pro
 
 After break, new decisions were made to change the pump to a 12VDC version, so I had to change my design which will become a recurring theme in this project. But that is engineering! So, now I only needed 12VDC and 5VDC levels on this board. I was hesitant to use DC-DC converters after only rectifying now that LDOs were available, but have since learnt that this hesitation has no basis on facts and it would be fine to use a switcher after rectifying. So, I paralleled two LDOs into a 5V DC-DC converter, allowing them to also power the mechanical peripherals. I also ran a simulation on a MOSFET logic control over providing power to the solenoids after researching different methods. In hindsight, these simulations are not very telling of what happens when switching on and off, but I confirmed that this circuit would work, and then I chose a proper schottky diode for flyback, included a bypass capacitor, and chose a MOSFET based on VDS, current, and Rds. One thing to note here that I forgot about was that the MCU I chose was 3.3V GPIO, but I fix this later. I used a SIG/GND/GND/SIG stackup for power dissipation, as a good GND plane next to the first signal plane is necessary, and I needed to route on another layer which became the 4th layer.
 
-![Circuit](PictureFile/Screenshot 2026-01-20 092757.png)
-![Sim](PictureFile/Screenshot 2026-01-20 093019.png)
-![MOSFET Sims 1](PictureFile/Screenshot 2026-01-21 211230.png)
-![MOSFET Sims 2](PictureFile/Screenshot 2026-01-21 211409.png)
-![Altium](PictureFile/Screenshot 2026-02-01 174446.png)
-![Layout](PictureFile/Screenshot 2026-02-01 174118.png)
-![GND1](PictureFile/Screenshot 2026-02-01 174240.png)
-![GND2](PictureFile/Screenshot 2026-02-01 174256.png)
-![DCDC1](PictureFile/Screenshot 2026-02-01 181834.png)
-![DCDC2](PictureFile/Screenshot 2026-02-01 181851.png)
+![Circuit](PictureFile/Screenshot 2026-01-20 092757.png)  
+![Sim](PictureFile/Screenshot 2026-01-20 093019.png)  
+![MOSFET Sims 1](PictureFile/Screenshot 2026-01-21 211230.png)  
+![MOSFET Sims 2](PictureFile/Screenshot 2026-01-21 211409.png)  
+![Altium](PictureFile/Screenshot 2026-02-01 174446.png)  
+![Layout](PictureFile/Screenshot 2026-02-01 174118.png)  
+![GND1](PictureFile/Screenshot 2026-02-01 174240.png)  
+![GND2](PictureFile/Screenshot 2026-02-01 174256.png)  
+![DCDC1](PictureFile/Screenshot 2026-02-01 181834.png)  
+![DCDC2](PictureFile/Screenshot 2026-02-01 181851.png)  
+
+I put this schematic and layout on Reddit to receive feedback, and became more aware of better power practices like ideal converters and using switching converters on the input of the device as it will be fine to handle noisy dc inputs. Here is the [link](https://www.reddit.com/r/PrintedCircuitBoard/comments/1qth5lv/senior_design_board_for_espresso_machine_power/) if you are interested in the feedback.
+
+This led me to my next schematic design, and I presented my initial design work as well as my new design after receiving feedback. At this point the client told us it would be more helpful for him if we just found pre-built circuits as he did not have enough electrical engineering experience to keep replicating this and would rather just buy it.
+
+![LastDesign](PictureFile/Screenshot 2026-03-09 184419.png)  
+
+
+So this was my last personal design, and then we just bought some SMPS and relays and have just been wiring up things so that the mechanical engineers in my group can test their equipment. Now I am working on the coding in the STM32 environment. When choosing these materials I just made sure that enough power was flowing from the wall into the SMPS, and that the SMPS had enough power to power each device in the worst case scenarios and it works. I also made sure the wires and enclosures could support the power levels being sent through them.  
 
 
 
 
 
-## NOT DONE
+## Last Updated 03/09
 
 **Back to main page:** [Main](https://wmayfield.github.io/)
